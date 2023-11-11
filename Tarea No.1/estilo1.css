@@ -1,0 +1,26 @@
+
+body{
+    background-color: rgba(162, 51, 199, 0.611);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+
+}
+h1 {
+    text-align: center;
+    color: rgb(6, 6, 6);
+    font-size: 35px;
+    font-weight: bolder;
+    text-shadow: -1px 0 mediumblue, 0 1px rgb(6, 63, 63) ;
+    background: rgb(75, 4, 99) ;
+
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border: rgb(28, 4, 38);
+    padding: 6px;
+    border-width: 10px;
+    border-style: inset;
+    width: 70%;
+    border-radius: 12%;
+}
